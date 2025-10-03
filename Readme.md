@@ -26,7 +26,7 @@ Clasificación de alertas según MITRE ATT&CK, ayudando a identificar tácticas 
 
 Para ver todos los pasos, capturas y diagramas del laboratorio, revisa el PDF completo:
 
-[Descargar PDF del laboratorio](Wazuh_SIEM_Lab.pdf)
+[Descargar PDF del laboratorio](Wazuh.pdf)
 
 
 **Resumen:**  
